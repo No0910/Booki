@@ -6,7 +6,7 @@
 
 1er projet de la formation de développeur web d'OpenClassroom.
 
-![Screenshot du site avec aperçu des pages desktop et mobiles]
+![Screenshot du site avec aperçu des pages desktop et mobiles](https://github.com/No0910/Booki/files/11602217/Screenshot-booki.pdf)
 
 ## Enjeux
 ---
