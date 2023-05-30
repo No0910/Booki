@@ -11,7 +11,6 @@
 ## Enjeux
 ---
 - Intégrer l'interface du site avec du code HTML et CSS à partir d'une maquette.
-- Permettre la réservation en ligne et la composition de menus.
 
 ## Livrables attendus
 ---
